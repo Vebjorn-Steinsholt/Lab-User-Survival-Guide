@@ -1,4 +1,4 @@
-# Lab-User-Survival-Guide
+# Lab User Survival Guide
 
 This repository contains a LaTeX document for a basic lab-user survival guide.
 
