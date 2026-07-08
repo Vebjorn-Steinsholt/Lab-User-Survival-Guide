@@ -1,0 +1,8 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces The first window that appears when starting QTM. Here you will select your project or create a new one}}{7}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Start a new measurement window by clicking the white sheet in the top left or pressing \texttt {CTRL + N}. You must also repeat this if the qualisys system crashes.}}{8}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Camera view in \textit {marker mode} click on the \textit {3D} icon on the left to enter \textit {3D mode}.}}{8}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Lab frame of reference with the calibrated volume shown. Press \texttt {CTRL + D} or alternatively click \textit {view} on the top toolbar and then select \textit {Data Info 1} to show marker positions in \textit {2D}.}}{8}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Lab frame of reference with the calibrated volume and 2D marker position shown. Right click and select \textit {6DOF} to show rigid body coordinates.}}{9}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Lab frame of reference with the calibrated volume and rigid body coordinates.}}{9}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces \textit {6DOF Settings} window were you can \textit {Add}, \textit {Acquire}, \textit {Load}, and \textit {Save} rigid bodies.}}{9}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces \emph {Translate Body} Settings where we can move the local origin.}}{10}{figure.8}%
